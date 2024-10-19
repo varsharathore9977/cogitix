@@ -1,0 +1,15 @@
+Create a React.js project 
+=================================
+npx create-react-app project_name
+
+install some packages
+=====================
+npm i axios
+npm i @heroicons/react@v1 //for icons
+
+install tailwind css packages for designing
+============================================
+https://tailwindcss.com/docs/installation //use this link
+
+npm install -D tailwindcss
+npx tailwindcss init
